@@ -1,7 +1,7 @@
 //#include "pch.h"		// required by visual studio only
 #include <iostream>
 #include <cmath>
-#include <GL/glut.h>
+#include "glut-3.7/include/GL/glut.h"
 
 #include "Exp.h"
 
